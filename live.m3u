@@ -70,52 +70,52 @@ http://iptv/udp/239.1.0.135:1025
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
 http://iptv/udp/239.1.1.46:1025
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-http://iptv/udp/239.1.0.42:1025
+http://iptv.terrance.internal/udp/239.1.0.42:1025
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-http://iptv/udp/239.1.0.41:1025
+http://iptv.terrance.internal/udp/239.1.0.41:1025
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-http://iptv/udp/239.1.0.185:1025
+http://iptv.terrance.internal/udp/239.1.0.185:1025
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-http://iptv/udp/239.1.0.23:1025
+http://iptv.terrance.internal/udp/239.1.0.23:1025
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-http://iptv/udp/239.1.0.40:1025
+http://iptv.terrance.internal/udp/239.1.0.40:1025
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-http://iptv/udp/239.1.0.184:1025
+http://iptv.terrance.internal/udp/239.1.0.184:1025
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-http://iptv/udp/239.1.0.183:1025
+http://iptv.terrance.internal/udp/239.1.0.183:1025
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-http://iptv/udp/239.1.0.12:1025
+http://iptv.terrance.internal/udp/239.1.0.12:1025
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
-http://iptv/udp/239.1.1.47:1025
+http://iptv.terrance.internal/udp/239.1.1.47:1025
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://iptv/udp/239.1.0.145:1025
+http://iptv.terrance.internal/udp/239.1.0.145:1025
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://iptv/udp/239.1.1.48:1025
+http://iptv.terrance.internal/udp/239.1.1.48:1025
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
-http://iptv/udp/239.1.1.50:1025
+http://iptv.terrance.internal/udp/239.1.1.50:1025
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://iptv/udp/239.1.0.205:1025
+http://iptv.terrance.internal/udp/239.1.0.205:1025
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方",金鹰卡通
-http://iptv/udp/239.1.0.235:1025
+http://iptv.terrance.internal/udp/239.1.0.235:1025
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实
-http://iptv/udp/239.1.0.237:1025
+http://iptv.terrance.internal/udp/239.1.0.237:1025
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方",湖南爱晚
-http://iptv/udp/239.1.0.238:1025
+http://iptv.terrance.internal/udp/239.1.0.238:1025
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南视剧.png" group-title="地方",湖南视剧
-http://iptv/udp/239.1.0.233:1025
+http://iptv.terrance.internal/udp/239.1.0.233:1025
 #EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="地方",湖南电影
-http://iptv/udp/239.1.0.234:1025
+http://iptv.terrance.internal/udp/239.1.0.234:1025
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="地方",湖南都市
-http://iptv/udp/239.1.0.228:1025
+http://iptv.terrance.internal/udp/239.1.0.228:1025
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="地方",湖南国际
-http://iptv/udp/239.1.0.249:1025
+http://iptv.terrance.internal/udp/239.1.0.249:1025
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="地方",湖南经视
-http://iptv/udp/239.1.0.227:1025
+http://iptv.terrance.internal/udp/239.1.0.227:1025
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="地方",湖南娱乐
-http://iptv/udp/239.1.0.236:1025
+http://iptv.terrance.internal/udp/239.1.0.236:1025
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="数字",CHC高清电影
-http://iptv/udp/239.1.0.150:1025
+http://iptv.terrance.internal/udp/239.1.0.150:1025
 #EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字",CHC家庭影院
-http://iptv/udp/239.1.0.149:1025
+http://iptv.terrance.internal/udp/239.1.0.149:1025
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字",CHC动作电影
-http://iptv/udp/239.1.0.245:1025
+http://iptv.terrance.internal/udp/239.1.0.245:1025
