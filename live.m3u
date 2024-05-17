@@ -101,7 +101,7 @@ http://iptv.terrance.internal:7088/udp/239.1.0.235:1025
 http://iptv.terrance.internal:7088/udp/239.1.0.237:1025
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方",湖南爱晚
 http://iptv.terrance.internal:7088/udp/239.1.0.238:1025
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="地方",湖南视剧
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="地方",湖南电视剧
 http://iptv.terrance.internal:7088/udp/239.1.0.233:1025
 #EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="地方",湖南电影
 http://iptv.terrance.internal:7088/udp/239.1.0.234:1025
