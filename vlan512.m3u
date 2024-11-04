@@ -32,9 +32,11 @@ http://100.127.254.4/180000001001/00000001000000001001000000000059/main.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15
 http://100.127.254.4/180000001001/00000001000000001019000000352948/main.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16
-http://100.127.254.4/180000001001/32023092211020870066032280295011/main.m3u8
+http://100.127.254.4/180000001001/00000001000000000080000000020700/main.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17
 http://100.127.254.4/180000001001/00000001000000001018000000188913/main.m3u8
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K
+http://100.127.254.4/180000001001/32023092211020870066032280295011/main.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",中文欧洲
 http://100.127.254.4/180000001001/00000001000000000066000000316563/main.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",中文美洲
@@ -95,6 +97,8 @@ http://100.127.254.4/180000001001/00000001000000000085000000234258/main.m3u8
 http://100.127.254.4/180000001001/00000001000000000085000000234260/main.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://100.127.254.4/180000001001/00000001000000001022000000367557/main.m3u8
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/06/20220706090415016.jpg" group-title="卫视",卡酷少儿
+http://100.127.254.4/180000001001/00000001000000000085000000234259/main.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方",金鹰卡通
 http://100.127.254.4/180000001001/00000001000000001001000000000039/main.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实
@@ -113,3 +117,29 @@ http://100.127.254.4/180000001001/00000001000000001001000000000045/main.m3u8
 http://100.127.254.4/180000001001/00000001000000000002000000027983/main.m3u8
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="地方",湖南娱乐
 http://100.127.254.4/180000001001/00000001000000001001000000000040/main.m3u8
+#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726085615668.jpg" group-title="地方",快乐购
+http://100.127.254.4/180000001001/00000001000000001001000000000046/main.m3u8
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725184411594.jpg" group-title="地方",湖南教育
+http://100.127.254.4/180000001001/00000001000000001016000000368716/main.m3u8
+#EXTINF:-1 tvg-id="长沙新闻综合" tvg-name="长沙新闻综合" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725184411594.jpg" group-title="地方",长沙新闻综合
+http://100.127.254.4/180000001001/00000001000000001001000000000027/main.m3u8
+#EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="" group-title="地方",长沙政法
+http://100.127.254.4/180000001001/00000001000000001001000000000028/main.m3u8
+#EXTINF:-1 tvg-id="长沙文旅" tvg-name="长沙文旅" tvg-logo="" group-title="地方",长沙文旅
+http://100.127.254.4/180000001001/32024050609475754900192172832495/main.m3u8
+#EXTINF:-1 tvg-id="嘉丽购" tvg-name="嘉丽购" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726090504473.jpg" group-title="地方",嘉丽购
+http://100.127.254.4/180000001001/00000001000000001001000000000072/main.m3u8
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728182516805.jpg" group-title="地方",茶频道
+http://100.127.254.4/180000001001/00000001000000001019000000025367/main.m3u8
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="" group-title="地方",优购物
+http://100.127.254.4/180000001001/32023081509015738052913120303537/main.m3u8
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="" group-title="记录",纪实科教
+http://100.127.254.4/180000001001/32024021915401877063861600576391/main.m3u8
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="" group-title="记录",中国交通
+http://100.127.254.4/180000001001/32024060300254079866912867039597/main.m3u8
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155325827.jpg" group-title="电影",家庭影院
+http://100.127.254.4/180000001001/00000001000000000046000000172625/main.m3u8
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155404430.jpg" group-title="电影",家庭影院
+http://100.127.254.4/180000001001/00000001000000000046000000172626/main.m3u8
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155427948.jpg" group-title="电影",家庭影院
+http://100.127.254.4/180000001001/00000001000000000046000000172627/main.m3u8
