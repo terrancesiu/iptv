@@ -41,7 +41,7 @@ http://100.127.254.4/180000001001/32023092211020870066032280295011/main.m3u8
 http://100.127.254.4/180000001001/00000001000000000066000000316563/main.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",中文美洲
 http://100.127.254.4/180000001001/00000001000000000066000000316564/main.m3u8
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202502/26/20250226163717331.jpg" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202502/26/20250226163717331.jpg" group-title="卫视",北京卫视4K
 http://100.127.254.4/180000001001/32025041016455785428147989013435/main.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://100.127.254.4/180000001001/00000001000000001001000000000062/main.m3u8
@@ -67,9 +67,11 @@ http://100.127.254.4/180000001001/00000001000000001001000000000043/main.m3u8
 http://100.127.254.4/180000001001/00000001000000001001000000000042/main.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
 http://100.127.254.4/180000001001/00000001000000001007000000062997/main.m3u8
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202506/12/20250612160216744.jpg" group-title="卫视",广东卫视4K
+http://100.127.254.4/180000001001/32025061216045542899740998913362/main.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://100.127.254.4/180000001001/00000001000000001001000000000065/main.m3u8
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202506/12/20250612160349583.jpg" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202506/12/20250612160349583.jpg" group-title="卫视",深圳卫视4K
 http://100.127.254.4/180000001001/32025061216044963480325761909943/main.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
 http://100.127.254.4/180000001001/00000001000000001001000000000066/main.m3u8
