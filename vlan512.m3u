@@ -31,7 +31,7 @@ http://100.127.254.4/180000001001/00000001000000000045000000287929/main.m3u8
 http://100.127.254.4/180000001001/00000001000000001001000000000059/main.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15
 http://100.127.254.4/180000001001/00000001000000001019000000352948/main.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16
+#EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视","CCTV-16 4K"
 http://100.127.254.4/180000001001/00000001000000000080000000020700/main.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17
 http://100.127.254.4/180000001001/00000001000000001018000000188913/main.m3u8
