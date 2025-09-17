@@ -41,6 +41,8 @@ http://100.127.254.4/180000001001/32023092211020870066032280295011/main.m3u8
 http://100.127.254.4/180000001001/00000001000000000066000000316563/main.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",中文美洲
 http://100.127.254.4/180000001001/00000001000000000066000000316564/main.m3u8
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202502/26/20250226163717331.jpg" group-title="卫视",北京卫视
+http://100.127.254.4/180000001001/32025041016455785428147989013435/main.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://100.127.254.4/180000001001/00000001000000001001000000000062/main.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
