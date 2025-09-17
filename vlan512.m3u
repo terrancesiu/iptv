@@ -69,6 +69,8 @@ http://100.127.254.4/180000001001/00000001000000001001000000000042/main.m3u8
 http://100.127.254.4/180000001001/00000001000000001007000000062997/main.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://100.127.254.4/180000001001/00000001000000001001000000000065/main.m3u8
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202506/12/20250612160349583.jpg" group-title="卫视",深圳卫视
+http://100.127.254.4/180000001001/32025061216044963480325761909943/main.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
 http://100.127.254.4/180000001001/00000001000000001001000000000066/main.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
