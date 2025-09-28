@@ -47,6 +47,8 @@ http://198.51.100.9:10086/180000001001/32025041016455785428147989013435/main.m3u
 http://198.51.100.9:10086/180000001001/00000001000000001001000000000062/main.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 http://198.51.100.9:10086/180000001001/00000001000000001001000000000064/main.m3u8
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202509/11/20250911090713488.jpg" group-title="卫视",东方卫视4K
+http://198.51.100.9:10086/180000001001/32025091110262040196018173153898/main.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
 http://198.51.100.9:10086/180000001001/00000001000000001001000000000063/main.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
@@ -57,14 +59,20 @@ http://198.51.100.9:10086/180000001001/00000001000000001001000000000068/main.m3u
 http://198.51.100.9:10086/180000001001/00000001000000001007000000063293/main.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 http://198.51.100.9:10086/180000001001/00000001000000001001000000000067/main.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202509/11/20250911085201139.jpg" group-title="卫视",山东卫视4K
+http://198.51.100.9:10086/180000001001/32025091110262140790808796206972/main.m3u8
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视4K
 http://198.51.100.9:10086/180000001001/00000001000000000060000000023730/main.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
 http://198.51.100.9:10086/180000001001/00000001000000001007000000063659/main.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://198.51.100.9:10086/180000001001/00000001000000001001000000000043/main.m3u8
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202509/11/20250911085514165.jpg" group-title="卫视",江苏卫视4K
+http://198.51.100.9:10086/180000001001/32025091110262123597416015586039/main.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
 http://198.51.100.9:10086/180000001001/00000001000000001001000000000042/main.m3u8
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202509/11/20250911085613283.jpg" group-title="卫视",浙江卫视4K
+http://198.51.100.9:10086/180000001001/32025091110262285133077346018456/main.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
 http://198.51.100.9:10086/180000001001/00000001000000001007000000062997/main.m3u8
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202506/12/20250612160216744.jpg" group-title="卫视",广东卫视4K
@@ -79,6 +87,8 @@ http://198.51.100.9:10086/180000001001/00000001000000001001000000000066/main.m3u
 http://198.51.100.9:10086/180000001001/00000001000000000085000000234241/main.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
 http://198.51.100.9:10086/180000001001/00000001000000000060000000023709/main.m3u8
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="http://hnydiptvimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202509/11/20250911091444059.jpg" group-title="卫视",四川卫视4K
+http://198.51.100.9:10086/180000001001/32025091110262049334156187568368/main.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
 http://198.51.100.9:10086/180000001001/00000001000000000060000000023691/main.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
